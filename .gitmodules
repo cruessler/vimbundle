@@ -61,3 +61,6 @@
 [submodule ".vim/bundle/vim-signature"]
 	path = .vim/bundle/vim-signature
 	url = git://github.com/kshenoy/vim-signature.git
+[submodule ".vim/bundle/rust.vim"]
+	path = .vim/bundle/rust.vim
+	url = git://github.com/rust-lang/rust.vim.git
