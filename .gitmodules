@@ -73,3 +73,6 @@
 [submodule ".vim/bundle/vim-mix-format"]
 	path = .vim/bundle/vim-mix-format
 	url = https://github.com/mhinz/vim-mix-format
+[submodule ".vim/bundle/vim-sneak"]
+	path = .vim/bundle/vim-sneak
+	url = https://github.com/justinmk/vim-sneak
