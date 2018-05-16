@@ -37,9 +37,6 @@
 [submodule ".vim/bundle/vim-elixir"]
 	path = .vim/bundle/vim-elixir
 	url = https://github.com/elixir-lang/vim-elixir
-[submodule ".vim/bundle/vim-test"]
-	path = .vim/bundle/vim-test
-	url = https://github.com/janko-m/vim-test
 [submodule ".vim/bundle/elm-vim"]
 	path = .vim/bundle/elm-vim
 	url = https://github.com/ElmCast/elm-vim
