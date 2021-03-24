@@ -7,7 +7,6 @@ synchronization between machines.
 git clone https://github.com/cruessler/vimbundle.git
 cd vimbundle
 git submodule update --init --depth=1
-# this assumes $HOME is the grandparent of .
 stow -t ~ .
 ```
 
